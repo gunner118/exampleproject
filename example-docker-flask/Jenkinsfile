@@ -1,4 +1,4 @@
-@Library('jenkins-pipeline-library-v2@develop') _
+@Library('jenkins-pipeline-library-v2') _
 
 pythonPipeline(
     project: 'example-docker-flask-hudson',
